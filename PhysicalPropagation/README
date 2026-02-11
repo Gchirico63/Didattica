@@ -1,0 +1,5 @@
+This subdirectory is to store samples of python codes (Jupyter lab) that perform various tasks of physical optics propagation.
+1. free propagation
+2. lens focusing
+3. four-f system
+4. plenoptic camera
