@@ -1,5 +1,9 @@
-This subdirectory is to store samples of python codes (Jupyter lab) that perform various tasks of physical optics propagation.
-1. free propagation
+This subdirectory is to store samples of python codes (Jupyter lab) that perform various tasks of physical optics propagation. 
+This is part of a course fo Adaptive Optics I am giving at th eUniv. of Milano-Bicocca, Milan, I.
+I would like to cover:
+1. free propagation (both near field and far field, i.e. in the Fourier or the real space)
 2. lens focusing
 3. four-f system
 4. plenoptic camera
+
+point 1 is almost done. 
