@@ -1,0 +1,9 @@
+this folder contains a few codes to work with the description of the aberrations and their effect. 
+
+- GS_2026 is a code to play with the Gerbert- Saxton algorithm. It uses as target examples two files
+that are jpg images, pasttern1 and pasttern2.jpg. In colab they must be uploaded in the colabe working space
+online. 
+
+- ShackHartman is about the simulation of the output of a Chack-Hartman. 
+
+
